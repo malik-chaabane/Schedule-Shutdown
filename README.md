@@ -11,8 +11,12 @@ A simple Python GUI for shutting down, canceling shutdown, or rebooting Windows,
 - Reboot the system  
 - Set a timed shutdown  
 
-## Installation  
-1. Install Python (if not installed).  
-2. Install dependencies:  
-   ```sh
-   pip install customtkinter
+## Installation
+1. Download the latest release from [Releases](https://github.com/malik-chaabane/Schedule-Shutdown/releases).
+2. Run `Schedule Shutdown.exe`.
+3. Enjoy!
+
+## Features
+- 🔹 One-click Shutdown, Restart, and Cancel options
+- ⏳ Set a **custom shutdown timer**
+- 🖥️ Simple and modern GUI
