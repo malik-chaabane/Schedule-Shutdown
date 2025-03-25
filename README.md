@@ -1,6 +1,10 @@
 # Windows Shutdown GUI V1.0  
 
 A simple Python GUI for shutting down, canceling shutdown, or rebooting Windows, using `customtkinter`.
+<p align="center">
+  <img src="https://github.com/malik-chaabane/Schedule-Shutdown/blob/main/Screenshot%202025-03-25%20070159.png" alt="Screenshot" width="600">
+</p>
+
 ## Features  
 - Shutdown the system instantly  
 - Cancel a scheduled shutdown  
